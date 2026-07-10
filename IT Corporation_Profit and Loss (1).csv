@@ -1,0 +1,277 @@
+IT Corporation,
+Profit and Loss,
+"1-30 June, 2025",
+
+,Total
+Income,
+In - IT Corp,
+Cabling,
+Cabinet,"4,500.00"
+Fly Lead & Patch,390.00
+Network Data Points,"12,350.00"
+Trunking / Wall Box,"1,750.00"
+Total for Cabling,"R18,990.00"
+Cloud,"7,769.85"
+Management Labour,605.00
+Office 365 Apps For Business,"2,255.00"
+Office 365 Business,"175,784.78"
+Office 365 Business Premium,"4,000.00"
+Office 365 Host Ex,"17,312.52"
+Office 365 Personal,"1,399.00"
+Office 365 Teams,"1,580.00"
+Total for Cloud,"R210,706.15"
+Commission R,"1,699.95"
+Fuel,
+Surchange,
+Monthly SLA Fuel,"1,292.00"
+Total for Surchange,"R1,292.00"
+Total for Fuel,"R1,292.00"
+H/W,
+Computer Chassis,"1,240.00"
+CPU,"3,707.44"
+Data Projector,"15,000.00"
+Hard Drive,"6,000.00"
+Keyboard,769.00
+Laptop Accessories,"1,840.00"
+Laptop battery,"2,542.60"
+Memory,"1,750.00"
+Motherboard,"2,820.00"
+Network Misc,313.04
+Network Switch,"7,650.00"
+Print Cartridge,"3,394.05"
+Printer,"2,343.70"
+PSU,"2,649.00"
+System,
+Computer workstation,"8,158.08"
+Laptop,"21,897.26"
+Total for System,"R30,055.34"
+VOIP Phone,"7,965.00"
+Wireless Access Point,595.00
+Total for H/W,"R90,634.17"
+HaaS,"6,670.00"
+Backup,"11,437.91"
+Hosted Desktop,"6,825.00"
+Hosted Server,"121,789.72"
+Setup Labour,"3,039.00"
+Upgrade,"7,252.50"
+Total for HaaS,"R157,014.13"
+Internet,"2,960.74"
+3G Data,126.00
+ADSL,
+Line Rental,"52,981.52"
+Total for ADSL,"R52,981.52"
+Domain,495.00
+Annual Renewal,585.00
+CM,
+Hosting & Sucuri Package,585.00
+Pointer,285.00
+Total for CM,R870.00
+Dynamic DNS,400.00
+Hosting,"1,134.31"
+Hosting Inc Renewal,"36,284.89"
+Registration,480.00
+Total for Domain,"R40,249.20"
+Fax2email,75.00
+Firewall,"15,055.00"
+Cyberoam,"11,150.00"
+Rental (Firewall X),"40,440.00"
+Total for Firewall,"R66,645.00"
+LTE,120.00
+LTE Monthly,"17,895.00"
+Total for LTE,"R18,015.00"
+Mail Security,"4,401.00"
+Vodacom,44.92
+Web Maintenance,
+Website,675.00
+Total for Web Maintenance,R675.00
+Total for Internet,"R186,173.38"
+Labour,R0.00
+Monthly SLA,"153,462.50"
+R&T SLA,
+Blocked SLA,"2,825.00"
+Unlimited SLA,"4,700.00"
+Total for R&T SLA,"R7,525.00"
+Total for Monthly SLA,"R160,987.50"
+R/T,"1,875.00"
+Workshop,"3,437.50"
+Total for Labour,"R166,300.00"
+S/W,500.00
+Microsoft Windows,"2,500.00"
+NABLE,
+AV Defender Monthly,"5,010.00"
+Backup - Advance Server,"3,425.00"
+Backup - PC/LT,"1,314.80"
+Backup - Plus Server,"3,455.00"
+Backup - Server,"1,200.00"
+IPro - LT/PC,"17,756.00"
+IPro - Server,"5,702.50"
+MSP Backup,"6,797.83"
+Total for NABLE,"R44,661.13"
+Total for S/W,"R47,661.13"
+Subcontractor - Income,
+Sub Labour,"1,250.00"
+Total for Subcontractor - Income,"R1,250.00"
+Travel,
+Call Out,870.00
+Total for Travel,R870.00
+VOIP,
+Calls,"20,339.60"
+Number Port,250.00
+PBX,"27,815.00"
+Phone Rental,"5,565.00"
+Setup,250.00
+Total for VOIP,"R54,219.60"
+Total for In - IT Corp,"R936,810.51"
+Total for Income,"R936,810.51"
+Cost of Sales,
+COGS - IT Corp,
+Cabling,454.00
+Cabinet,"3,507.00"
+Network Data Point,"10,250.00"
+Trunking,"1,523.00"
+Total for Cabling,"R15,734.00"
+Cloud,"9,886.09"
+Hosted Ex,74.02
+Microsoft Defencer for Office 365 (Plan 1),620.48
+Office 365 Apps for Business,768.15
+Office 365 Business,"149,688.09"
+Office 365 Hosted,"11,676.53"
+Office 365 Personal,781.74
+Office 365 Teams,444.10
+Total for Cloud,"R173,939.20"
+H/W,
+Computer Chassis,940.00
+CPU,"3,201.00"
+Data Projector,"12,172.18"
+Hard Drives,"3,198.00"
+Keyboard,981.00
+Laptop Accessories,94.00
+Laptop Batteries,"1,599.00"
+Memory,"1,596.00"
+Motherboard,"1,820.00"
+Network Misc,"6,530.29"
+Network Switch,"4,800.00"
+Printer,"2,027.00"
+Printer Cartridge,"4,724.00"
+PSU,930.00
+System,
+Computer Workstation,"3,999.00"
+Laptop,"20,048.20"
+Total for System,"R24,047.20"
+VOIP Phone,"6,877.00"
+Warranty,"2,413.79"
+Wireless Access Point,384.00
+Total for H/W,"R78,334.46"
+HaaS,
+Backup,"15,767.80"
+Hosted Desktop,"1,304.35"
+Hosted Server,"60,565.22"
+Total for HaaS,"R77,637.37"
+Internet,
+3G Data,111.30
+ADSL,
+Capped,293.92
+Line Rental,"47,108.35"
+Realm,529.56
+Static IP (DSL),231.28
+Total for ADSL,"R48,163.11"
+Domain,"12,010.70"
+Hosting,66.09
+Registration,85.22
+Renewal,"2,616.62"
+Total for Domain,"R14,778.63"
+Firewall,
+Rental (Firewall X),"46,120.50"
+Total for Firewall,"R46,120.50"
+LTE,43.50
+LTE Monthly,"11,783.51"
+LTE Top up,104.35
+Total for LTE,"R11,931.36"
+Mail Security,"2,960.18"
+Reactivation Fee,-200.00
+Total for Internet,"R123,865.08"
+S/W,
+Bitdefender AV,737.08
+Nable,
+AV Defender Monthly,"9,016.88"
+Backup - PC/LT,"7,875.84"
+Backup - Server,"2,974.72"
+MSP Backup,"11,630.90"
+Total for Nable,"R31,498.34"
+Total for S/W,"R32,235.42"
+Subcontractor,"1,000.00"
+Sub Labour,"4,238.75"
+Total for Subcontractor,"R5,238.75"
+Subscriptons,541.81
+N-Able,"-1,807.68"
+Repairshopr,"2,530.72"
+Total for Subscriptons,"R1,264.85"
+VOIP,
+Calls,"19,982.99"
+PBX,99.00
+Total for VOIP,"R20,081.99"
+Total for COGS - IT Corp,"R528,331.12"
+Courier Charges,836.96
+Total for Cost of Sales,"R529,168.08"
+Gross Profit,"R407,642.43"
+Other Income(Loss),
+Interest Income,11.88
+Recoveries,"23,253.40"
+Total for Other Income(Loss),"R23,265.28"
+Expenses,
+3451 Amortisation - Intangible Asset,"3,366.67"
+Bad Debt,"16,059.75"
+Bank Charges,"4,548.82"
+Consulting Fees,"171,698.47"
+Discount Allowed,-86.90
+Gifts & Donations,
+Gift,"16,935.52"
+Total for Gifts & Donations,"R16,935.52"
+Insurance,802.69
+Legal Fees,295.00
+Marketing & Networking,"10,587.48"
+Office Expense,"14,869.70"
+ADSL Expense,540.00
+Printings & Stationery,878.66
+Staff Refreshments,"1,386.34"
+General,30.43
+Total for Staff Refreshments,"R1,416.77"
+Telephone,
+Cellphones,552.12
+Total for Telephone,R552.12
+Total for Office Expense,"R18,257.25"
+Payroll Outsource Costs,803.84
+Rental (office),"7,499.53"
+Office Repairs & Maint.,195.00
+Rent,"13,750.00"
+Total for Rental (office),"R21,444.53"
+Salaries,"180,689.61"
+Gross,
+Birthday Deductions,"1,700.00"
+Casual,600.00
+Total for Gross,"R2,300.00"
+Total for Salaries,"R182,989.61"
+Staff Expenses,"2,943.13"
+Staff Welfare,"1,000.00"
+Subscriptions,778.60
+Travel & Entertain,
+Entertainment,689.57
+Total for Travel & Entertain,R689.57
+Vehicle Expenses,
+Fuel,
+Byron,986.32
+Colin,300.00
+Heinz,900.00
+Kevin,"1,200.00"
+Matt,600.00
+Total for Fuel,"R3,986.32"
+Total for Vehicle Expenses,"R3,986.32"
+Total for Expenses,"R457,100.35"
+Other Expenses,
+Income Tax,"-7,072.00"
+Total for Other Expenses,"-R7,072.00"
+Net Earnings,"-R19,120.64"
+
+
+
+"Accrual Basis Friday, 10 July 2026 05:54 AM GMTZ",
